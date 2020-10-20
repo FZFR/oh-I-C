@@ -1,2 +1,2 @@
 # oh-I-C
-Repo for Learning C Programming
+Repo for Learning C Programming Language

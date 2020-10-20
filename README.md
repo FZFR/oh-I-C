@@ -1,2 +1,2 @@
 # oh-I-C
-for educational purposes
+Repo for Learning C Programming
